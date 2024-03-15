@@ -5,6 +5,8 @@ Neste repositório, você encontrará todos os recursos e informações necessá
 
 Para demonstrar as máquinas/serviços em execução foi anexado um video com a demonstração abaixo descrevendo como o deploy foi realizado e o que cada máquina/serviço faz.
 
+https://drive.google.com/file/d/1zHin8OSO1VhNz3jr-6Tns8IwxXp4lNMW/view?usp=sharing
+
 como observado no video, a partir do tutorial da ponderada e os conhecimentos adquiridos em sala, a conexão do RDS com a instancia ec2 foi realizada com sucesso
 
 ## Código
